@@ -1,0 +1,21 @@
+.todos-list-container {
+	justify-content: center;
+	max-width: 720px;
+	margin: auto;
+}
+
+.todos-list {
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.list-group-item {
+	align-items: center;
+	background-color: #fafafa;
+}
+
+.todo-card {
+	max-width: 520px;
+	margin: auto;
+	margin-top: 10px;
+}
